@@ -8,7 +8,7 @@ function App() {
   return (
     <>
     <Navbar name="NIght Shade"></Navbar>
-    <Section title="FUNTOOL"></Section>
+    <Section title="BOOK OF SOULS"></Section>
     </>
   );
 }
