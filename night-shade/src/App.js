@@ -1,11 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
+import Navbar from './components/Navbar';
+import Section from './components/Section';
+
 
 function App() {
   return (
-    <div className="App">
-      <h1>night shade</h1>
-    </div>
+    <>
+    <Navbar name="NIght Shade"></Navbar>
+    <Section title="FUNTOOL"></Section>
+    </>
   );
 }
 

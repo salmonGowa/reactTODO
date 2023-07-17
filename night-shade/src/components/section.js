@@ -1,9 +1,11 @@
 import React from 'react'
 
-function section() {
+function Section(props) {
   return (
-    <div>section</div>
+    <>
+    <h1 className='display-4'>{props.title}</h1>
+    </>
   )
 }
 
-export default section
+export default Section
