@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Navbar from './components/Navbar';
 import Section from './components/Section';
+import Register from './Register';
 
 
 function App() {
