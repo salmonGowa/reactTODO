@@ -8,8 +8,14 @@ import Register from './Register';
 function App() {
   return (
     <>
+    <main className="App">
+      <Register>
+        
+      </Register>
+    </main>
     <Navbar name="NIght Shade"></Navbar>
-    <Section title="BOOK OF SOULS"></Section>
+    
+    
     </>
   );
 }
