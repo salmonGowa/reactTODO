@@ -15,6 +15,7 @@ function Section(props) {
       <h4 className='text-success'>output</h4>
     </div>
     <div className="col-md-2"></div>
+    <div class="nav">fjksfj</div>
 
   </div>
   </>
